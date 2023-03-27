@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.88e25e9a.css",
+    "main.js": "/my-app/static/js/main.1ba545e9.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/schoollogo.jpg": "/my-app/static/media/schoollogo.d94bbb305502d5253b2e.jpg",
+    "static/media/green2.jpg": "/my-app/static/media/green2.7f3fdf94774c13b352fa.jpg",
+    "static/media/independence.jpg": "/my-app/static/media/independence.51e7a557dfdece014167.jpg",
+    "static/media/string3.jpg": "/my-app/static/media/string3.0a8778c8a35d31f5e38e.jpg",
+    "static/media/holiimg.jpg": "/my-app/static/media/holiimg.1fd3131e4266b5f0d5a7.jpg",
+    "static/media/arithemtic.jpg": "/my-app/static/media/arithemtic.b1bd67b097911fb3884e.jpg",
+    "static/media/kids.jpg": "/my-app/static/media/kids.370d10b68af1d7192fb3.jpg",
+    "static/media/bhendi.jpg": "/my-app/static/media/bhendi.e0da4a0d207430b5444a.jpg",
+    "static/media/slide2.jpg": "/my-app/static/media/slide2.2fae9ee00c2c3318d4a5.jpg",
+    "static/media/drawing.jpg": "/my-app/static/media/drawing.5c7cc6f5c8854aeac23f.jpg",
+    "static/media/string.jpg": "/my-app/static/media/string.32a52549b9fc89470f96.jpg",
+    "static/media/candid.jpg": "/my-app/static/media/candid.2e4dfeed5d79dadd641e.jpg",
+    "static/media/blocks2.jpg": "/my-app/static/media/blocks2.7854d5b8ed1d3377a50f.jpg",
+    "static/media/geo1.jpg": "/my-app/static/media/geo1.7f484fac0dce7b4ab1bf.jpg",
+    "static/media/grains.jpg": "/my-app/static/media/grains.8dbc35a05feddfd4cd18.jpg",
+    "static/media/geography2.jpg": "/my-app/static/media/geography2.37a8b8acd11d4a2adc23.jpg",
+    "static/media/act1.jpg": "/my-app/static/media/act1.9c318348ae20b9acfda0.jpg",
+    "static/media/slide.jpg": "/my-app/static/media/slide.5c0637e795bdaf74e525.jpg",
+    "static/media/red.jpg": "/my-app/static/media/red.414dcc0bdc18308afdfe.jpg",
+    "static/media/hexa.jpg": "/my-app/static/media/hexa.f4c329e6f1ad346de59d.jpg",
+    "static/media/pink.jpg": "/my-app/static/media/pink.ae7aa7a909de85374f5a.jpg",
+    "index.html": "/my-app/index.html",
+    "main.88e25e9a.css.map": "/my-app/static/css/main.88e25e9a.css.map",
+    "main.1ba545e9.js.map": "/my-app/static/js/main.1ba545e9.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88e25e9a.css",
+    "static/js/main.1ba545e9.js"
+  ]
+}
