@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/ChandricaMontessori/static/css/main.adfae526.css",
-    "main.js": "/ChandricaMontessori/static/js/main.86586158.js",
+    "main.js": "/ChandricaMontessori/static/js/main.3abad5e1.js",
     "static/js/787.28cb0dcd.chunk.js": "/ChandricaMontessori/static/js/787.28cb0dcd.chunk.js",
+    "static/media/principal.jpg": "/ChandricaMontessori/static/media/principal.c587557f4c008cc678f7.jpg",
     "static/media/schoollogo.jpg": "/ChandricaMontessori/static/media/schoollogo.d94bbb305502d5253b2e.jpg",
     "static/media/green2.jpg": "/ChandricaMontessori/static/media/green2.7f3fdf94774c13b352fa.jpg",
     "static/media/independence.jpg": "/ChandricaMontessori/static/media/independence.51e7a557dfdece014167.jpg",
@@ -27,11 +28,11 @@
     "static/media/pink.jpg": "/ChandricaMontessori/static/media/pink.ae7aa7a909de85374f5a.jpg",
     "index.html": "/ChandricaMontessori/index.html",
     "main.adfae526.css.map": "/ChandricaMontessori/static/css/main.adfae526.css.map",
-    "main.86586158.js.map": "/ChandricaMontessori/static/js/main.86586158.js.map",
+    "main.3abad5e1.js.map": "/ChandricaMontessori/static/js/main.3abad5e1.js.map",
     "787.28cb0dcd.chunk.js.map": "/ChandricaMontessori/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.adfae526.css",
-    "static/js/main.86586158.js"
+    "static/js/main.3abad5e1.js"
   ]
 }
